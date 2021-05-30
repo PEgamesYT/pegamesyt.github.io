@@ -1,0 +1,26 @@
+{
+	"all_dimensions": {},
+	"minecraft:overworld":
+	{
+		"farming": 5,
+		"cooking": 10,
+		"taming": 10
+	},
+	"minecraft:the_end":
+	{
+		"flying": 50,
+		"combat": 20,
+		"archery": 50,
+		"endurance": 30,
+		"magic": 20
+	},
+	"minecraft:the_nether":
+	{
+		"combat": 25,
+		"archery": 25,
+		"endurance": 35,
+		"flying": 250,
+		"farming": -25,
+		"agility": 10
+	}
+}

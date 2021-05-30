@@ -1,0 +1,107 @@
+craftingTable.addShaped("armorer_goggles", <item:village_employment:armorer_helmet>, [
+	[<item:betterendforge:leather_stripe>,<item:create:iron_sheet>,<item:betterendforge:leather_stripe>]
+]);
+craftingTable.addShaped("armorer_apron", <item:village_employment:armorer_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:create:iron_sheet>,<item:minecraft:leather>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("butcher_headband", <item:village_employment:butcher_helmet>, [
+	[<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>]
+]);
+craftingTable.addShaped("butcher_apron", <item:village_employment:butcher_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:white_dye>,<item:minecraft:leather>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("cartographer_monocle", <item:village_employment:cartographer_helmet>, [
+	[<item:create:golden_sheet>,<item:minecraft:glass_pane>,<item:create:golden_sheet>],
+	[<item:minecraft:air>,<item:minecraft:air>,<item:minecraft:gold_nugget>]
+]);
+craftingTable.addShaped("cartographer_harness", <item:village_employment:cartographer_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>],
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:create:iron_sheet>],
+	[<item:minecraft:air>,<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>]
+]);
+craftingTable.addShaped("cleric_collar", <item:village_employment:cleric_helmet>, [
+	[<item:minecraft:gold_nugget>,<item:minecraft:gold_nugget>,<item:minecraft:gold_nugget>],
+	[<item:quark:purple_quilted_wool>,<item:quark:purple_quilted_wool>,<item:quark:purple_quilted_wool>]
+]);
+craftingTable.addShaped("cleric_robe_top", <item:village_employment:cleric_chestplate>, [
+	[<item:quark:purple_quilted_wool>,<item:minecraft:air>,<item:quark:purple_quilted_wool>],
+	[<item:quark:purple_quilted_wool>,<item:quark:purple_quilted_wool>,<item:quark:purple_quilted_wool>],
+	[<item:minecraft:gold_nugget>,<item:minecraft:gold_nugget>,<item:minecraft:gold_nugget>]
+]);
+craftingTable.addShaped("cleric_robe_bottom", <item:village_employment:cleric_boots>, [
+	[<item:quark:purple_quilted_wool>,<item:quark:purple_quilted_wool>,<item:quark:purple_quilted_wool>],
+	[<item:minecraft:gold_nugget>,<item:quark:purple_quilted_wool>,<item:minecraft:gold_nugget>],
+	[<item:minecraft:air>,<item:minecraft:gold_nugget>,<item:minecraft:air>]
+]);
+craftingTable.addShaped("farmer_hat", <item:village_employment:farmer_helmet>, [
+	[<item:betterendforge:leather_stripe>,<item:quark:thatch>,<item:betterendforge:leather_stripe>],
+	[<item:quark:thatch>,<item:quark:thatch>,<item:quark:thatch>]
+]);
+craftingTable.addShaped("farmer_belt", <item:village_employment:farmer_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("fisherman_hat", <item:village_employment:fisherman_helmet>, [
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:minecraft:leather>,<item:betterendforge:leather_stripe>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("fisherman_vest", <item:village_employment:fisherman_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:leather>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:minecraft:cod>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("fisherman_boots", <item:village_employment:fisherman_boots>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:air>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("fletcher_hat", <item:village_employment:fletcher_helmet>, [
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:feather>],
+	[<item:minecraft:leather>,<item:minecraft:air>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("fletcher_belt", <item:village_employment:fletcher_chestplate>, [
+	[<item:minecraft:arrow>,<item:minecraft:air>,<item:minecraft:air>],
+	[<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>,<item:betterendforge:leather_stripe>]
+]);
+craftingTable.addShapeless("librarian_hat", <item:village_employment:librarian_helmet>, [<item:inspirations:red_book>]
+);
+craftingTable.addShaped("librarian_toga", <item:village_employment:librarian_chestplate>, [
+	[<item:minecraft:air>,<item:quark:white_quilted_wool>,<item:quark:white_quilted_wool>],
+	[<item:quark:white_quilted_wool>,<item:betterendforge:leather_stripe>,<item:quark:white_quilted_wool>],
+	[<item:quark:white_quilted_wool>,<item:quark:white_quilted_wool>,<item:minecraft:air>]
+]);
+craftingTable.addShaped("shepherd_hat", <item:village_employment:sheperd_helmet>, [
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("shepherd_vest", <item:village_employment:sheperd_chestplate>, [
+	[<item:quark:white_quilted_wool>,<item:minecraft:air>,<item:quark:white_quilted_wool>],
+	[<item:quark:white_quilted_wool>,<item:quark:white_quilted_wool>,<item:quark:white_quilted_wool>],
+	[<item:quark:white_quilted_wool>,<item:betterendforge:leather_stripe>,<item:quark:white_quilted_wool>]
+]);
+craftingTable.addShaped("weaponsmith_lyepatch", <item:village_employment:weaponsmith_helmet>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:minecraft:air>],
+	[<item:minecraft:air>,<item:minecraft:leather>,<item:betterendforge:leather_stripe>]
+]);
+craftingTable.addShaped("weaponsmith_apron", <item:village_employment:weaponsmith_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:minecraft:iron_sword>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("leatherworker_apron", <item:village_employment:leatherworker_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("mason_apron", <item:village_employment:mason_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:black_dye>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:betterendforge:iron_hammer>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);
+craftingTable.addShaped("toolsmith_apron", <item:village_employment:toolsmith_chestplate>, [
+	[<item:betterendforge:leather_stripe>,<item:minecraft:air>,<item:betterendforge:leather_stripe>],
+	[<item:minecraft:leather>,<item:minecraft:leather>,<item:minecraft:leather>],
+	[<item:minecraft:iron_pickaxe>,<item:minecraft:leather>,<item:minecraft:leather>]
+]);

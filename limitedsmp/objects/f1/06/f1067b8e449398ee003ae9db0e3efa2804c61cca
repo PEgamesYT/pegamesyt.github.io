@@ -1,0 +1,72 @@
+craftingTable.removeRecipe(<item:cfm:oak_upgraded_fence>);
+craftingTable.addShaped("oak_upgraded_fence", <item:cfm:oak_upgraded_fence>, [
+	[<item:minecraft:oak_log>,<item:minecraft:stick>,<item:minecraft:oak_log>],
+	[<item:minecraft:oak_log>,<item:minecraft:stick>,<item:minecraft:oak_log>],
+	[<item:minecraft:oak_log>,<item:minecraft:stick>,<item:minecraft:oak_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:spruce_upgraded_fence>);
+craftingTable.addShaped("spruce_upgraded_fence", <item:cfm:spruce_upgraded_fence>, [
+	[<item:minecraft:spruce_log>,<item:minecraft:stick>,<item:minecraft:spruce_log>],
+	[<item:minecraft:spruce_log>,<item:minecraft:stick>,<item:minecraft:spruce_log>],
+	[<item:minecraft:spruce_log>,<item:minecraft:stick>,<item:minecraft:spruce_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:birch_upgraded_fence>);
+craftingTable.addShaped("birch_upgraded_fence", <item:cfm:birch_upgraded_fence>, [
+	[<item:minecraft:birch_log>,<item:minecraft:stick>,<item:minecraft:birch_log>],
+	[<item:minecraft:birch_log>,<item:minecraft:stick>,<item:minecraft:birch_log>],
+	[<item:minecraft:birch_log>,<item:minecraft:stick>,<item:minecraft:birch_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:jungle_upgraded_fence>);
+craftingTable.addShaped("jungle_upgraded_fence", <item:cfm:jungle_upgraded_fence>, [
+	[<item:minecraft:jungle_log>,<item:minecraft:stick>,<item:minecraft:jungle_log>],
+	[<item:minecraft:jungle_log>,<item:minecraft:stick>,<item:minecraft:jungle_log>],
+	[<item:minecraft:jungle_log>,<item:minecraft:stick>,<item:minecraft:jungle_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:acacia_upgraded_fence>);
+craftingTable.addShaped("acacia_upgraded_fence", <item:cfm:acacia_upgraded_fence>, [
+	[<item:minecraft:acacia_log>,<item:minecraft:stick>,<item:minecraft:acacia_log>],
+	[<item:minecraft:acacia_log>,<item:minecraft:stick>,<item:minecraft:acacia_log>],
+	[<item:minecraft:acacia_log>,<item:minecraft:stick>,<item:minecraft:acacia_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:dark_oak_upgraded_fence>);
+craftingTable.addShaped("dark_oak_upgraded_fence", <item:cfm:dark_oak_upgraded_fence>, [
+	[<item:minecraft:dark_oak_log>,<item:minecraft:stick>,<item:minecraft:dark_oak_log>],
+	[<item:minecraft:dark_oak_log>,<item:minecraft:stick>,<item:minecraft:dark_oak_log>],
+	[<item:minecraft:dark_oak_log>,<item:minecraft:stick>,<item:minecraft:dark_oak_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:stripped_oak_upgraded_fence>);
+craftingTable.addShaped("stripped_oak_upgraded_fence", <item:cfm:stripped_oak_upgraded_fence>, [
+	[<item:minecraft:stripped_oak_log>,<item:minecraft:stick>,<item:minecraft:stripped_oak_log>],
+	[<item:minecraft:stripped_oak_log>,<item:minecraft:stick>,<item:minecraft:stripped_oak_log>],
+	[<item:minecraft:stripped_oak_log>,<item:minecraft:stick>,<item:minecraft:stripped_oak_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:stripped_spruce_upgraded_fence>);
+craftingTable.addShaped("stripped_spruce_upgraded_fence", <item:cfm:stripped_spruce_upgraded_fence>, [
+	[<item:minecraft:stripped_spruce_log>,<item:minecraft:stick>,<item:minecraft:stripped_spruce_log>],
+	[<item:minecraft:stripped_spruce_log>,<item:minecraft:stick>,<item:minecraft:stripped_spruce_log>],
+	[<item:minecraft:stripped_spruce_log>,<item:minecraft:stick>,<item:minecraft:stripped_spruce_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:stripped_birch_upgraded_fence>);
+craftingTable.addShaped("stripped_birch_upgraded_fence", <item:cfm:stripped_birch_upgraded_fence>, [
+	[<item:minecraft:stripped_birch_log>,<item:minecraft:stick>,<item:minecraft:stripped_birch_log>],
+	[<item:minecraft:stripped_birch_log>,<item:minecraft:stick>,<item:minecraft:stripped_birch_log>],
+	[<item:minecraft:stripped_birch_log>,<item:minecraft:stick>,<item:minecraft:stripped_birch_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:stripped_jungle_upgraded_fence>);
+craftingTable.addShaped("stripped_jungle_upgraded_fence", <item:cfm:stripped_jungle_upgraded_fence>, [
+	[<item:minecraft:stripped_jungle_log>,<item:minecraft:stick>,<item:minecraft:stripped_jungle_log>],
+	[<item:minecraft:stripped_jungle_log>,<item:minecraft:stick>,<item:minecraft:stripped_jungle_log>],
+	[<item:minecraft:stripped_jungle_log>,<item:minecraft:stick>,<item:minecraft:stripped_jungle_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:stripped_acacia_upgraded_fence>);
+craftingTable.addShaped("stripped_acacia_upgraded_fence", <item:cfm:stripped_acacia_upgraded_fence>, [
+	[<item:minecraft:stripped_acacia_log>,<item:minecraft:stick>,<item:minecraft:stripped_acacia_log>],
+	[<item:minecraft:stripped_acacia_log>,<item:minecraft:stick>,<item:minecraft:stripped_acacia_log>],
+	[<item:minecraft:stripped_acacia_log>,<item:minecraft:stick>,<item:minecraft:stripped_acacia_log>]
+]);
+craftingTable.removeRecipe(<item:cfm:stripped_dark_oak_upgraded_fence>);
+craftingTable.addShaped("stripped_dark_oak_upgraded_fence", <item:cfm:stripped_dark_oak_upgraded_fence>, [
+	[<item:minecraft:stripped_dark_oak_log>,<item:minecraft:stick>,<item:minecraft:stripped_dark_oak_log>],
+	[<item:minecraft:stripped_dark_oak_log>,<item:minecraft:stick>,<item:minecraft:stripped_dark_oak_log>],
+	[<item:minecraft:stripped_dark_oak_log>,<item:minecraft:stick>,<item:minecraft:stripped_dark_oak_log>]
+]);
